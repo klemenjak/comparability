@@ -86,7 +86,7 @@ In our research paper, we discuss several aspects related to performance evaluat
 In order to obtain conclusive results in performance evaluation, NILM algorithms have to be tested on a sufficiently large amount of data. However, we can observe large variations in related work spanning from a few days up to several months of test sets.
 We identify the need for a simple measure that gives information on how extensively testing was performed on a dataset.
 We suggest reporting the amount of data used for evaluation to get an idea of how many events were embedded in the test set.
-To quantify this property, we propose the \emph{test set ratio (TSR)} and the \emph{event ratio (EVR)}, which are defined as
+To quantify this property, we propose the **test set ratio (TSR)** and the **event ratio (EVR)**, which are defined as
 
 ![TSR](img/TSR.png)
 
